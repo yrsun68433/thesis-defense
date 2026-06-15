@@ -392,10 +392,10 @@ export default function App() {
             NATIONAL TAIWAN UNIVERSITY · DEPARTMENT OF ECONOMICS
           </div>
           <h1 style={{ fontSize: 22, fontWeight: "bold", color: "#221e30", margin: "0 0 4px", letterSpacing: 1 }}>
-            研究生學位口試行政工具
+            經濟系研究生學位口試申請系統範式
           </h1>
           <div style={{ fontSize: 12, color: C.label }}>
-            Graduate Thesis Defense Administrative Assistant
+            Graduate Thesis Defense Application System
           </div>
         </div>
       </div>
